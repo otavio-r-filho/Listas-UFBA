@@ -1,0 +1,30 @@
+# Unixen: object and executable files.
+*.o
+
+# Windows
+*.exe
+*.idb
+*.manifest
+*.exp
+*.obj
+*.pdb
+*.ilk
+*.sln
+*.suo
+*.res
+*.RES
+src/if_perl.c
+src/pathdef.c
+src/Obj*/pathdef.c
+gvimext.dll
+gvimext.lib
+runtime/doc/uganda.nsis.txt
+
+# All platforms
+*.rej
+*.orig
+*.mo
+*.swp
+*~
+*.pyc
+*.log
